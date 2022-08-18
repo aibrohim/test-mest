@@ -1,3 +1,3 @@
 # Assalomu alaykum
 
-3-oy GIT darsidamiz
+3-oy GIT **darsidamiz**
